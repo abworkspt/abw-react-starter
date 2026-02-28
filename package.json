@@ -1,0 +1,14 @@
+{
+  "name": "abw-react-starter",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "abw-react-starter": "./bin/create.js"
+  },
+  "dependencies": {
+    "commander": "^12.0.0",
+    "execa": "^9.0.0",
+    "fs-extra": "^11.0.0",
+    "inquirer": "^9.0.0"
+  }
+}
